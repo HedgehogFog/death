@@ -11,7 +11,6 @@ import org.eclipse.jetty.webapp.WebAppContext;
  *
  */
 public class Main {
-    
     /**
      * @param args
      */
